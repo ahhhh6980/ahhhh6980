@@ -6,5 +6,5 @@
 | FractalC | Mc Bundle Image Converter |
 |----------|---------------------------|
 | A command-line activated CPU-based Fractal Renderer!| Converts images/gifs into bundles in Minecraft!|
-|I usually spend the most time on this|This is currently being rewritten in C++...|
+|Superseded by MultiFractal (SOON)|This is currently being rewritten in C++...|
 |[![FractalCBanner](https://ninja.dog/24RWVN.png)](https://github.com/ahhhh6980/FractalC)|[![McBIC](https://ninja.dog/jrUYHH.png)](https://github.com/ahhhh6980/McBundleImageConverter)|
