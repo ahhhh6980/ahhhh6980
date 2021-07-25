@@ -2,6 +2,10 @@
 ### I mainly program in C++ or Python, but I am interested in learning other languages like Rust, ASM, Common Lisp, and more.
 #### I like solving puzzles...
 ![image](https://projecteuler.net/profile/ahhhh6980.png)
+
+You can support me by donating through my ko-fi account!
+https://ko-fi.com/ahhhh6980
+
 # I am currently working on
 | FractalC | Mc Bundle Image Converter | MultiFractal | DFT Epicycles Generator |
 |----------|---------------------------| ------------ | ----------------------- |
