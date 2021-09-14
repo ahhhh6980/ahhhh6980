@@ -3,8 +3,7 @@
 #### I like solving puzzles...
 ![image](https://projecteuler.net/profile/ahhhh6980.png)
 
-You can support me by donating through my ko-fi account!
-https://ko-fi.com/ahhhh6980
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T55DUPL)
 
 # I am currently working on
 | FractalC | Mc Bundle Image Converter | MultiFractal | DFT Epicycles Generator |
