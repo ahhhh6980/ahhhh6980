@@ -1,4 +1,4 @@
-## My Discord; ahhhh#6980
+## My Discord: caramel#8578
 ### I mainly program in C++ or Python, but I am interested in learning other languages like Rust, ASM, Common Lisp, and more.
 #### I like solving puzzles...
 ![image](https://projecteuler.net/profile/ahhhh6980.png)
