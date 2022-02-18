@@ -23,7 +23,7 @@ I have been programming since the start of 2020!
       <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=ahhhh6980&show_icons=true&theme=tokyonight&line_height=27&hide_border=true&hide=html,css/??" alt="Jacob's GitHub Stats" />
     </a>
     <a href="https://github.com/ahhhh6980">
-      <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahhhh6980&theme=tokyonight&hide_border=true&card-width=500&hide=html,css/??" />
+      <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahhhh6980&theme=tokyonight&hide_border=true&hide=html,css/??" />
     </a>
 </p>
 
