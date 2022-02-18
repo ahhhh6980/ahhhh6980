@@ -27,10 +27,10 @@ I have been programming since the start of 2020!
     </a>
 </p>
 
-## my interests include:
-  * Algorithm Development
-  * Complex Analysis
-  * Geometric Algebra
-  * Quantum Computing
-  * Optimization
-  * GPGPU
+# My Interests!
+  - Algorithm Development
+  - Complex Analysis
+  - Geometric Algebra
+  - Quantum Computing
+  - Optimization
+  - GPGPU
