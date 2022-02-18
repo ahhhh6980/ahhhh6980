@@ -28,5 +28,3 @@ My interests also include algorithm development, complex analysis, geometric alg
 <a href="https://ko-fi.com/T6T55DUPL">
   <img align="center" style="margin:0.5rem" src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Jacob's GitHub Stats" />
 </a>
-
----
