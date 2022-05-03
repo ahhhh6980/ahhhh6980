@@ -10,9 +10,7 @@
    <a href="https://www.youtube.com/channel/UC0CgBIwl-0xGhgEo151V4ew">
       <img alt="Tests Passing" src="https://img.shields.io/badge/Youtube-Profile-informational?style=for-the-badge&logo=youtube&logoColor=white&color=675b9e" />
     </a>
-   <a href="https://dcbadge.vercel.app/api/shield/882817497059967016">
-      <img alt="Tests Passing" src="https://dcbadge.vercel.app/api/shield/882817497059967016" />
-    </a>
+  
 </p>
 
 # Hello!
