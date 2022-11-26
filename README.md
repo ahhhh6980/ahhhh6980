@@ -1,9 +1,6 @@
 [![Shelby's GitHub Banner](./assets/duality.jpg)](https://www.deviantart.com/ahhhh6980)
 
 <p align="center">
-    <a href="https://github.com/ahhhh6980/ahhhh6980/">
-      <img alt="Tests Passing" src="https://badges.pufler.dev/visits/ahhhh6980/ahhhh6980?style=for-the-badge&color=675b9e" />
-    </a>
    <a href="https://www.linkedin.com/in/jacob-berube-37b0b51b1/">
       <img alt="Tests Passing" src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=675b9e" />
     </a>
