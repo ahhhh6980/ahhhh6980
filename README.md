@@ -1,4 +1,4 @@
-[![Jacob's GitHub Banner](./assets/banner.png)](https://www.deviantart.com/ahhhh6980)
+[![Shelby's GitHub Banner](./assets/duality.jpg)](https://www.deviantart.com/ahhhh6980)
 
 <p align="center">
     <a href="https://github.com/ahhhh6980/ahhhh6980/">
