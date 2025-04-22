@@ -1,4 +1,4 @@
-[![Shelby's GitHub Banner](./assets/duality.jpg)](https://www.deviantart.com/ahhhh6980)
+[![Shelby's GitHub Banner](./assets/Web.png)](https://www.deviantart.com/ahhhh6980)
 
 <p align="center">
    <a href="https://www.linkedin.com/in/jacob-berube-37b0b51b1/">
@@ -22,13 +22,8 @@ I have been programming since the start of 2020!
     </a>
 </p>
 
-# Support
-if you like what I create, you can [Click Here](https://ko-fi.com/caramellow) to support me on Ko-Fi!
-
 # My Interests!
-  - Algorithm Development
-  - Complex Analysis
-  - Geometric Algebra
   - Quantum Computing
-  - Optimization
   - GPGPU
+  - Technical Analysis
+  - Graphics Programming
